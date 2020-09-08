@@ -11,4 +11,9 @@ spring
 georg
 margrit
 ritter
+utz david
+belser markus   $1982sFriend
+weber marc
+walthermerzweg 6
 
+jürg stalder angryNeighbor
